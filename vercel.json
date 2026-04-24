@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "functions": {
+    "api/track.js": {
+      "runtime": "nodejs18.x"
+    }
+  }
+}
